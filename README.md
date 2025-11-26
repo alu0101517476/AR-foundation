@@ -6,8 +6,6 @@ Email: alu0101517476@ull.edu.es
 
 ---
 
-# Informe de Desarrollo: Aplicación de Realidad Aumentada con Unity 6 y AR Foundation
-
 ## 1. Introducción y Objetivos
 El objetivo de este proyecto ha sido desarrollar una aplicación de Realidad Aumentada (RA) para dispositivos Android utilizando **Unity 6** y el framework **AR Foundation** junto con **Google ARCore**.
 
