@@ -44,7 +44,7 @@ En Unity 6, se utilizó el objeto **XR Origin (Mobile AR)** en lugar del antiguo
 * **XR Origin:** Objeto padre que maneja la cámara y las coordenadas del mundo real.
 * **AR Session:** Componente encargado de gestionar el ciclo de vida de la experiencia de RA.
 
-A al objeto **XR Origin** se le añadieron los siguientes componentes esenciales:
+Al objeto **XR Origin** se le añadieron los siguientes componentes esenciales:
 * **AR Plane Manager:** Para la detección y visualización de superficies planas. Se asignó un *AR Default Plane* como prefab de visualización.
 * **AR Raycast Manager:** Para permitir lanzar rayos invisibles que detecten la intersección con los planos detectados.
 
