@@ -10,10 +10,13 @@ Email: alu0101517476@ull.edu.es
 El objetivo de este proyecto ha sido desarrollar una aplicación de Realidad Aumentada (RA) para dispositivos Android utilizando **Unity 6** y el framework **AR Foundation** junto con **Google ARCore**.
 
 La funcionalidad principal de la aplicación consiste en:
-1.  Detección de planos horizontales en el mundo real.
-2.  Instanciación de objetos virtuales ("paquetes") al tocar dichas superficies.
-3.  Interacción con los objetos: al tocar un paquete virtual, este se recoge (desaparece).
-4.  Interfaz de Usuario (UI): Visualización en tiempo real de un contador de paquetes recogidos.
+- Detección de planos horizontales en el mundo real.
+  
+- Instanciación de objetos virtuales ("paquetes") al tocar dichas superficies.
+  
+- Interacción con los objetos: al tocar un paquete virtual, este se recoge (desaparece).
+  
+- Interfaz de Usuario (UI): Visualización en tiempo real de un contador de paquetes recogidos.
 
 ## 2. Configuración del Entorno (Project Setup)
 
