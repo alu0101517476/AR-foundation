@@ -123,3 +123,7 @@ public class GameController : MonoBehaviour
             Instantiate(paquetePrefab, hit
 
 ```
+
+El siguiente vídeo muestra como funciona la aplicación en un dispositivo Android:
+
+![Vídeo](Edit.gif)
